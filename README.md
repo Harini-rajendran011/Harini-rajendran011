@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harini-rajendran011
 - 👀 I’m interested in designing and learning 
 - 🌱 I’m currently learning b.tech artificial intelligence and data science 
-- 💞️ I’m looking to collaborate on top companies like Google, Microsoft etc
 - 📫 How to reach me harinirajendran1102@gmail.com
 
 <!---
